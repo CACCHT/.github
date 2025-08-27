@@ -5,10 +5,10 @@ Together with specialists in the field we develop linguistically annotated datse
 
 The following datasets are the result of our work:
 
-[The Dead Sea Scrolls](https://github.com/etcbc/dss)
-[The ETCBC Syriac Corpus](https://github.com/etcbc/syriac)
-[The Samaritan Pentateuch](https://github.com/DT-UCPH/sp)
-[The Copenhagen Ugaritic Corpus](https://github.com/dt-ucph/cuc)
+- [The Dead Sea Scrolls](https://github.com/etcbc/dss)
+- [The ETCBC Syriac Corpus](https://github.com/etcbc/syriac)
+- [The Samaritan Pentateuch](https://github.com/DT-UCPH/sp)
+- [The Copenhagen Ugaritic Corpus](https://github.com/dt-ucph/cuc)
 
 
 
