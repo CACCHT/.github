@@ -4,7 +4,7 @@ The CACCHT project is a collaboration of Martijn Naaijer (University of Zurich),
 Together with specialists in the field we develop linguistically annotated datsets of Semitic texts. These datasets are publicly available and can be used freely for research and education. Some datasets have only word-level annotations, while others also contain syntactic features.
 
 ## Datasets
-The following datasets are the result of our work:
+We are working on the following datasets:
 
 - [The Dead Sea Scrolls](https://github.com/etcbc/dss)
 - [The ETCBC Syriac Corpus](https://github.com/etcbc/syriac)
