@@ -7,6 +7,7 @@ Together with specialists in the field we develop linguistically annotated datse
 We are working on the following datasets:
 
 - [The Dead Sea Scrolls](https://github.com/etcbc/dss)
+- [The Aleppo Codex](https://github.com/MartijnNaaijer/aleppo)
 - [The ETCBC Syriac Corpus](https://github.com/etcbc/syriac)
 - [The Samaritan Pentateuch](https://github.com/DT-UCPH/sp)
 - [The Copenhagen Ugaritic Corpus](https://github.com/dt-ucph/cuc)
